@@ -1,0 +1,8 @@
+Step by Step jadi Software Engineer di Singapura
+1. Kursus Bahasa Inggris.
+2. Perdalam Hard Skill :
+  a. Java Spring
+  b. Github
+  c. CI/CD
+  d. Test Case
+3. Apply Job
