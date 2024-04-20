@@ -6,3 +6,4 @@ Step by Step jadi Software Engineer di Singapura
   c. CI/CD
   d. Test Case
 3. Apply Job
+4. Perbaiki Komunikasi & Kolaborasi
